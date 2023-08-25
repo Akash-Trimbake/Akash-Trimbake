@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-trimbake&label=Profile%20views&color=0e75b6&style=flat" alt="akash-trimbake" /> </p>
 
-- 💬 Ask me about **MERN, Python**
+- 💬 Ask me about **MERN, Next.js, Python**
 
 - 📫 How to reach me **trimbakeakash19@gmail.com**
 
